@@ -22,3 +22,8 @@ Insira o texto
 ## Atuação profissional
 - " Atue como um [ profissional ] e crie uma [ tarefa ] em [ formato ] sobre [ topico ]. "
 
+## Resumo de conteudo 
+- " TLDR: [ link ] resuma o conteudo do link em [ idioma ]"
+
+## Conteudo em carrossel
+- " resuma esse conteudo em formato post carrossel de até [ quantidade ] slides "
